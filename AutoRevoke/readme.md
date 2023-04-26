@@ -10,8 +10,7 @@ After deployment, attach this playbook to an **automation rule** so it runs when
 
 [Learn more about automation rules](https://docs.microsoft.com/azure/sentinel/automate-incident-handling-with-automation-rules#creating-and-managing-automation-rules)
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FSentinel-Playbook%2Fmaster%2F
-AutoRevoke%2FRevoke-AADSignInSessions%2Fincident-trigger%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FSentinel-Playbook%2Fmaster%2FAutoRevoke%2FRevoke-AADSignInSessions%2Fincident-trigger%2Fazuredeploy.json" target="_blank">
 <img src="https://aka.ms/deploytoazurebutton""/>
 </a>
 
