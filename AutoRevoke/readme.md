@@ -35,8 +35,3 @@ New-AzureAdServiceAppRoleAssignment -ObjectId $MI.ObjectId -PrincipalId $MI.Obje
 ```
 
 
-## Screenshots
-**Incident Trigger**<br>
-![Incident Trigger](./incident-trigger/images/Revoke-AADSignInSessions_incident.png)<br>
-**Alert Trigger**<br>
-![Alert Trigger](./alert-trigger/images/Revoke-AADSignInSessions_alert.png)<br>
